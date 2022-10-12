@@ -1,0 +1,21 @@
+
+#igazgató{
+    border: 10px solid red;
+    padding: 5px;
+}
+.tanar{
+    border: 10px solid darkgray;
+    margin: 0 20px;
+    padding: 5px;
+}
+.fontos{
+    color: red;
+    font-weight: bold;
+}
+.szellős{
+    letter-spacing: 3px;
+}
+ul{
+    /* list-style-type: square; */
+   list-style-image: url(images/balogh.bence.kicsi.jpg);
+   
