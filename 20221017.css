@@ -1,0 +1,10 @@
+/* a vessző=és */
+/* a szóköz=a div-en belüli p bekezdések */
+table, td, th{
+    border: 1px solid darkblue;
+    border-collapse: collapse;
+}
+
+div p{
+    background-color: aquamarine;
+}
