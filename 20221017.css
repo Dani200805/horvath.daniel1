@@ -8,3 +8,21 @@ table, td, th{
 div p{
     background-color: aquamarine;
 }
+th{
+    background-color: #222;
+
+}
+td, th{
+    padding: 10px;
+}
+.közép{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+
+hr{
+    margin: 40px 0px;
+    border: solid 5px black;
+}
